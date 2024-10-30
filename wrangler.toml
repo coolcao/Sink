@@ -1,5 +1,9 @@
 upload_source_maps = true
 
+[[analytics_engine_datasets]]
+binding = "ANALYTICS"
+dataset = "sink"
+
 [dev]
 port = 3000
 
